@@ -22,7 +22,7 @@ Korean Law MCP도 4.15.10(2026-10-24 배포)부터 국세청 예규 본문을 �
 Claude Code(또는 데스크톱 앱 Code 탭의 로컬 세션)에 아래 한 줄을 붙여넣으세요. 설치 위치와 등록은 Claude가 이 README의 「Claude가 할 일」대로 처리합니다.
 
 ```
-https://github.com/mastercpakim-ui/lawkit 설치해줘
+https://github.com/nuttycpa/lawkit 설치해줘
 ```
 
 등록이 끝나면 앱(또는 Claude Code)을 완전히 종료했다가 다시 켜세요.
